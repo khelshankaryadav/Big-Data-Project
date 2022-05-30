@@ -1,0 +1,62 @@
+
+2022-05-29 21:56:58.205046 ~ Model v1
+RandomForestClassifier: 0.50625
+LogisticRegression: 0.66875
+LinearDiscriminantAnalysis: 0.66875
+KNeighborsClassifier: 0.58125
+DecisionTreeClassifier: 0.5125
+SVC: 0.66875
+GaussianNB: 0.66875
+VotingClassifier: 0.66875
+
+--------------------
+
+
+2022-05-29 21:58:12.531947 ~ Model v2
+RandomForestClassifier: 0.6875
+LogisticRegression: 0.7578125
+LinearDiscriminantAnalysis: 0.75
+KNeighborsClassifier: 0.6953125
+DecisionTreeClassifier: 0.6875
+SVC: 0.6640625
+GaussianNB: 0.75
+VotingClassifier: 0.734375
+
+--------------------
+
+
+2022-05-29 22:00:43.366409 ~ Model v3
+RandomForestClassifier: 0.46484375
+LogisticRegression: 0.56640625
+LinearDiscriminantAnalysis: 0.5625
+KNeighborsClassifier: 0.53515625
+DecisionTreeClassifier: 0.46875
+SVC: 0.51953125
+GaussianNB: 0.578125
+VotingClassifier: 0.54296875
+
+--------------------
+
+
+2022-05-29 22:01:59.207952 ~ Model v4
+RandomForestClassifier: 0.625
+LogisticRegression: 0.7421875
+LinearDiscriminantAnalysis: 0.7421875
+KNeighborsClassifier: 0.7265625
+DecisionTreeClassifier: 0.6328125
+SVC: 0.7421875
+GaussianNB: 0.7421875
+VotingClassifier: 0.7421875
+
+--------------------
+
+
+2022-05-29 22:04:31.167833 ~ Model v5
+RandomForestClassifier: 0.47265625
+LogisticRegression: 0.6953125
+LinearDiscriminantAnalysis: 0.6953125
+KNeighborsClassifier: 0.609375
+DecisionTreeClassifier: 0.48046875
+SVC: 0.6953125
+GaussianNB: 0.6953125
+VotingClassifier: 0.6953125
